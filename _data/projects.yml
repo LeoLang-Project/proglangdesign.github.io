@@ -151,6 +151,21 @@ Lesma:
     Lesma is a compiled, gradually typed,
     imperative and object oriented programming language.
 
+LeoLang:
+  website: https://leo-lang.cf/
+  github: LeoLang-Project/LeoLang
+  # Place your icon in `images/lang/`.
+  # Non-white SVGs or transparent PNGs are preferred.
+  # If you are concerned about licensing issues with your language's icon,
+  # you may link to it on an external site using a normal URL.
+  icon: leo.png
+  # icon: https://example.com/icon/plasma.png
+  author:
+    name: Chris Anders
+    website: http://furesoft.ml/
+  summary: >
+    A language for freedom for the programmer. The Compiler is extensible and it has macro support. Multi-Paradigm Language with MSIL Standard Backend
+
 Lobster:
   website: http://strlen.com/lobster
   github: aardappel/lobster
